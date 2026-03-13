@@ -154,4 +154,4 @@ MiniGameLauncher сейчас жёстко привязан к TicTacToe. Реф
 
 ## Видео
 
-
+[Gameplay](https://files.catbox.moe/wl37h9.gif)
