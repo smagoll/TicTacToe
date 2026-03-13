@@ -151,3 +151,7 @@ MiniGameLauncher сейчас жёстко привязан к TicTacToe. Реф
 - **UniTask** — асинхронность
 - **TextMeshPro** — UI-текст
 - **Cursor** — AI-рефакторинг кода
+
+## Видео
+
+
