@@ -28,6 +28,12 @@
 # Visual Studio cache directory
 .vs/
 
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
 # Gradle cache directory
 .gradle/
 
